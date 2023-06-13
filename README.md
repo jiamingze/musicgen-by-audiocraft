@@ -7,7 +7,7 @@
 
 ### 1. 在线访问生成
 打开https://huggingface.co/spaces/facebook/MusicGen, 我们可以看到如下页面，在Describe your music中可以输入我们文本prompt，同时也可以上传参考音乐（可选）。Examples中一个5个示例，点击示例同样也可以进行生成音乐体验。点击Generate后，数分钟后可以生成音乐。
-![musicgen](./huggingface_musicgen.png)。
+![musicgen](./huggingface_musicgen.png)
   
 ### 2.本地部署方式
 <b>2.1 创建环境（可省略）</b>
